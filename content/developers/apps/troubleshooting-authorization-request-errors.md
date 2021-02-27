@@ -1,4 +1,4 @@
----
+New---
 title: Troubleshooting authorization request errors
 intro: '{% data reusables.shortdesc.troubleshooting_authorization_request_errors_oauth_apps %}'
 redirect_from:
